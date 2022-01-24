@@ -10,10 +10,12 @@ body {
     color:#3a3a3a;
 }
 h1, h2 {
-    font-family: oswaid, sans-serif;
+    font-family: oswald, sans-serif;
     text-transform: upercase;
     letter-spacing: 4px;
     color:#252525;
-    
-
+}
+#logo {
+    float: left;
+    font-size: 200%;
 }
