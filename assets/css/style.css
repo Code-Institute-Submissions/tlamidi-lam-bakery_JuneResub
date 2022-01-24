@@ -31,7 +31,11 @@ h1, h2 {
     margin-right: 30px;
 }
 
-#main-menu a:hoover {
+#main-menu li a {
     font-weight: 100;
     display: inline;
+    text-decoration: none;
+ a {
+     font-family: oswald, sans-serif;
+ }   
 }
