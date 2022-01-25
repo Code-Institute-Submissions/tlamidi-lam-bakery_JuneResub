@@ -45,9 +45,16 @@ img {
     margin: 0;
     padding: 4px; 
     overflow: hidden; 
-    background-image: url("../assets/images/half-loaf-of-bread.jpg");  
+    background-image: url(/assets/images/half-loaf-of-bread.jpg");
     background-repeat: no-repeat
     background-color: #cccccc 
     width: 300;
-    height: 600px';
+    height: 600;
+    boxing-size: box-block;
+    object-fit: cover;
 }   
+#image-div {
+    height: 50%;
+    width: 50%;
+
+}
