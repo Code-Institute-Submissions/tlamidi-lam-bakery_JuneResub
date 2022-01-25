@@ -40,7 +40,8 @@ h1, h2 {
      font-family: oswald, sans-serif;
  }   
 img {
-    display: inline;
+    font-family: lato
+:    display: inline;
     margin: 0, auto;
     padding: 4px;
     
