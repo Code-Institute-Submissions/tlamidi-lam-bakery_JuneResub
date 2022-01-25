@@ -40,9 +40,11 @@ h1, h2 {
      font-family: oswald, sans-serif;
  }   
 img {
-    font-family: lato
-:    display: inline;
-    margin: 0, auto;
-    padding: 4px;
-    
+    font-family: lato;
+    display: block;
+    margin: 0;
+    padding: 4px; 
+    overflow: hidden; 
+    background-image: url("../assets/images/half-loaf-of-bread.jpg");  
+    background-repeat: no-repeat
 }
