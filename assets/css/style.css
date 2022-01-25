@@ -47,4 +47,7 @@ img {
     overflow: hidden; 
     background-image: url("../assets/images/half-loaf-of-bread.jpg");  
     background-repeat: no-repeat
-}
+    background-color: #cccccc 
+    width: 300;
+    height: 600px';
+}   
