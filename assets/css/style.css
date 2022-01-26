@@ -10,5 +10,14 @@ body {
     margin: 0;
     padding: 0;
 }
-
-
+nav ul{
+    list-style: none;
+    background-color: brown;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+nav li{
+    font-size: 1.2em;
+    line-height: 40px;
+}
