@@ -11,9 +11,9 @@ body {
     padding: 0;
 }
 nav ul{
-    list-style: none;
+    list-style-type: none;
     background-color: beige;
-    text-align: left;
+    text-align: right;
     padding: 0;
     margin: 0;
 }
@@ -22,6 +22,14 @@ nav li{
     line-height: 40px;
     height: 40px
     display: inline-block;
-    margin: 2.5%;
-    
+    margin: 1.5%;
+    float: right;
+
+}nav a{
+    text-decoration: none;
+    color: #ffff
+    display: block;
+}
+h1 {
+    font-weight: 
 }
