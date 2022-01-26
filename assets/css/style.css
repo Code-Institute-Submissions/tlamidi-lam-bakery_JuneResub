@@ -31,5 +31,14 @@ nav li{
     display: block;
 }
 h1 a {
-    margin: 2.5% 
+    margin: 2.5%;
+    text-align: center;
+}
+.hint {
+    float: left; 
+    width: 20%;
+    margin-left: 10%;   
+}
+.hint a {
+    text-align: left;
 }
