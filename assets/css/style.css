@@ -43,7 +43,7 @@ h1 a {
     display: inline-block;
 }
 .hint {
-    float: left; 
+    float: left; f
     width: 20%;
 }
  img {
@@ -54,8 +54,9 @@ h1 a {
      margin-bottom: 1px;   
 }
  p {
-     font-size: 20px;
-     color: black;
+     font-size: 18px;
+     color: rgb(0, 0, 0);
      font-family: oswald;
+     margin-top: 10px;
     
  }
