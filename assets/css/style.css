@@ -31,11 +31,10 @@ nav li{
     display: block;
 }
 h1 {
-    font-family: oswald, sans-serif;
-    height:100px;
-    weight: 100px;
-    font-size: large
-    font-weight: bold;
+    height:50px;
+    weight: 50px;
+    font-size: small;
+    
 }
 h1 a {
     padding-top: 0;
