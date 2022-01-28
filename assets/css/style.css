@@ -62,5 +62,9 @@ h1 a {
  #mission {
      family-font: oswald;
      font-size: 20px;
-     margin: 10px;
  }
+ #mission h2 {
+     margin-top: 5px;
+     padding-bottom: 20px;
+ }
+ 
