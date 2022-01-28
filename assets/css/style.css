@@ -61,11 +61,11 @@ nav h1 a {
  }
  #mission {
      family-font: oswald;
-     font-size: 16px;
+     font-size: 12px;
      
  }
  #mission h2 {
-     margin-top: 5px;
-     padding-bottom: 20px;
+     margin-top: 30px;
+     padding-bottom: 0px;
      font-weight: bold;
  }
