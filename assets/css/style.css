@@ -30,14 +30,14 @@ nav li{
     color: #ffff
     display: block;
 }
-h1 {
+nav h1 {
     height:50px;
     weight: 50px;
     font-size: x-large;
     padding-bottom: 20px;
     
 }
-h1 a {
+nav h1 a {
     padding: 0px;
     margin: 1.5%;
     display: inline-block;
@@ -61,10 +61,11 @@ h1 a {
  }
  #mission {
      family-font: oswald;
-     font-size: 20px;
+     font-size: 16px;
+     
  }
  #mission h2 {
-     margin-top: 5px;
+     margin-top: 10px;
      padding-bottom: 20px;
+     font-weight: bold;
  }
- 
