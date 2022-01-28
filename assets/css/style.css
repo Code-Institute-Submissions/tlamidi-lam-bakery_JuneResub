@@ -96,6 +96,10 @@ nav h1 a {
      font-size: 22px;
      font-weight: bold;
  }
+ .ingredients {
+    font-family: oswald, sans-serif;
+    font-size: 12px;
+ }   
 .ingredients ul {
     list-style: none;
     color: black;
