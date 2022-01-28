@@ -76,15 +76,23 @@ nav h1 a {
  }
  .equipments ul {
      list-style: none;
-     color: black
+     color: black;
      font-weight: bold;
-     margin-top
+     margin-top: 0px;
+     padding-left: 10px
  }
  .equipments h2 {
-     font-weight: bold;
+     font-size: 20px;
+     font-family: oswald, sans-serif;
      text-decoration: none;
      color: black;
-     margin-top: 20px;
-     padding-bottom: 10px
-
+     margin-top: 25px;
+     padding-bottom: 20px;
+ }
+ .equipments li {
+     padding-bottom: 0px;
+     padding-right: 5px;
+     margin-top: 0;
+     font-size: 22px;
+     font-weight: bold;
  }
