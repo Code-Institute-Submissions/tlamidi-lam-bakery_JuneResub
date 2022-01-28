@@ -70,13 +70,21 @@ nav h1 a {
      font-weight: bold;
      color:black;
  }
- #equipments {
+ .equipments {
      font-family: oswald, sans-serif;
      font-size: 12px;
  }
- #equipments ul {
+ .equipments ul {
      list-style: none;
      color: black
      font-weight: bold;
      margin-top
+ }
+ .equipments h2 {
+     font-weight: bold;
+     text-decoration: none;
+     color: black;
+     margin-top: 20px;
+     padding-bottom: 10px
+
  }
