@@ -122,20 +122,28 @@ nav h1 a {
     margin-top: 25px;
     padding-bottom: 20px;
 } 
-#address {
+#address scan, h2 {
     font-family: lato, sans-serif;
     border: 2px, solid, black;
-    margin: 10px, 0, 10px, 0;
+    margin-top: 25px;
     padding: 10px; 
-    width: 300px;
-    height: 250;
+    width: 200px;
+    height: 100;
+    font-size: 20px;
 }
 #email {
+    font-family: Lato, sans-serrif;
+    font-size: 20px;
+}
+#email scan {
     font-family: lato, sans-serif;
     border: 2px, solid, black;
-    margin: 10px, 0 10px, 0;
+    margin-top: 10px;
     padding: 10px;
-    width: 300px;
-    height: 250px;
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
 }
+
+    
 
