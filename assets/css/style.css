@@ -171,9 +171,9 @@ nav h1 a {
      font-size: 20px;
      text align: 20px
  } 
- .table-heading tr {
-     width: 500px;
-     height: 300px;
+ table tr {
+     width: 1000px;
+     height: 700px;
      margin-top: 30px;
      padding-bottom: 20px;
  } 
