@@ -152,16 +152,17 @@ nav h1 a {
     padding-bottom: 0px;
 }
 #address h2 {
-    font-size: 20px;
-    margin-top: 20px;
+    font-size: 0px;
+    border: 2px solid  white;
+    margin-top: 5px;
     padding-bottom; 20px;
     
 }
 #address p {
-    font-size: 20px;
+    font-size: 25px;
     color: black;
     
- .table-heading {
+ .table {
      font-family: lato, sans-serrif;
      width: 350px;
      padding-bottom: 20px;
@@ -171,7 +172,7 @@ nav h1 a {
      font-size: 20px;
      text align: 20px
  } 
- table tr {
+ .table-heading tr {
      width: 1000px;
      height: 700px;
      margin-top: 30px;
