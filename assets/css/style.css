@@ -168,23 +168,26 @@ nav h1 a {
     margin-top: 25px;
     padding-bottom: 25px;
     
- .table {
+ #table {
      font-family: lato, sans-serrif;
-     width: 350px;
-     padding-bottom: 20px;
+     width: 400px;
+     height: 300px;
+     padding-bottom: 30px;
      margin-top: 40px;  
      border: 2px solid black;
      display: inline;
      font-size: 20px;
-     text align: 20px;
+ } 
+ .table  {
+     width: 800px;
+     height: 600px;
+     margin-top: 10px;
+     padding-bottom: 10px;
  } 
  .table tr {
-     width: 1000px;
-     height: 700px;
-     margin-top: 30px;
-     padding-bottom: 20px;
- } 
-
+     font-weight: bold;
+     font-size: 25px;
+ }
 
     
 
