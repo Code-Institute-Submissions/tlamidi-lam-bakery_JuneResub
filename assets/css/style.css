@@ -197,8 +197,10 @@ nav h1 a {
      text-align: center;
      width: 300px;
      height: 250px;
+     text-style-type: none;
  }
  footer li {
+     text-style: none;
      float: center;
      display: inline-block;
      font-weight: bold;
@@ -207,6 +209,11 @@ nav h1 a {
      margin: 0;
      padding: 0;
      line-height: 10px
+ }
+ footer a {
+     float: right;
+     display: block;
+
  }
 
     
