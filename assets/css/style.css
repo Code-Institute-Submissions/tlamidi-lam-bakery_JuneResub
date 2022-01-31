@@ -185,6 +185,7 @@ nav h1 a {
      padding-bottom: 10px;
  } 
  .table td {
+     border: 1px solid white;
      font-weight: bold;
      font-size: 25px;
  }
