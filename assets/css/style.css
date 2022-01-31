@@ -43,7 +43,7 @@ nav h1 a {
     display: inline-block;
 }
 .hint {
-    float: left; f
+    float: left; 
     width: 20%;
 }
  img {
@@ -161,14 +161,23 @@ nav h1 a {
     font-size: 20px;
     color: black;
     
- tr.table-heading {
+ .table-heading {
      font-family: lato, sans-serrif;
      width: 350px;
-     height: 250px;
-     padding: 20px;
-     margin: 25px;
+     padding-bottom: 20px;
+     margin-top: 40px;  
      border: 2px solid black;
- }  
+     display: inline;
+     font-size: 20px;
+     text align: 20px
+ } 
+ .table-heading tr {
+     width: 500px;
+     height: 300px;
+     margin-top: 30px;
+     padding-bottom: 20px;
+     
+ } 
 
 
     
