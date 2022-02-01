@@ -167,6 +167,12 @@ nav h1 a {
     font-weight:bold;
     margin-top: 25px;
     padding-bottom: 25px;
+#opening-hour {
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+    font-weight: bold;
  } 
  table {
      border-collapse: collapse;
