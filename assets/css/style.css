@@ -193,7 +193,7 @@ nav h1 a {
      font-family: oswald;
      font-size: 25px;
  }
- footer ul {
+ .footer ul {
      text-align: right;
      width: 300px;
      height: 250px;
@@ -202,7 +202,7 @@ nav h1 a {
      padding: 0;
      font-size: 25px;
  }
- footer li {
+ .footer li {
      text-style: none;
      float: center;
      display: inline-block;
