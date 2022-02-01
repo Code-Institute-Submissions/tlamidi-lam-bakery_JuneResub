@@ -170,7 +170,7 @@ nav h1 a {
  } 
  table {
      border-collapse: collapse;
-     width: 80%;
+     width: 60%;
  }
  table, th, td {
      border: 1px solid black;
@@ -181,6 +181,17 @@ nav h1 a {
  td {
      text-align: center;
      height: 40px;
+ }
+ .unorder-list {
+     display: inline;
+     list-style-type:none;
+     text-decoration: none;
+     margin: auto;
+ }
+ .unorder-list li {
+     text-align: center;
+     margin:auto;
+     padding: 0;
  }
 
 
