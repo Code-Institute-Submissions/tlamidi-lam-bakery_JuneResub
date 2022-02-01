@@ -211,13 +211,14 @@ nav h1 a {
      height:250px;
      margin: 0;
      padding: 0;
-     
+     position: relative;
+ }        
+    #socia-media {
+         float: right;
+         position: absolute;
+    
  }
- footer a {
-     float: right;
-     display: block;
 
- }
 
     
 
