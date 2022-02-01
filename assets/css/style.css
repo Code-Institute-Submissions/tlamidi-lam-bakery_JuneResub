@@ -204,20 +204,17 @@ nav h1 a {
  }
  .footer li {
      text-style: none;
-     float: center;
      display: inline-block;
      font-weight: bold;
      width: 300px;
      height:250px;
-     margin: 0;
-     padding: 0;
-     position: relative;
  }        
     #socia-media {
          float: right;
-         position: absolute;
-    
+         width: 300px;
+         height: 300px;   
  }
+
 
 
     
