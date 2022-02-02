@@ -20,14 +20,14 @@ nav ul{
 nav li{
     font-size: 1.2em;
     line-height: 40px;
-    height: 40px
+    height: 40px;
     display: inline-block;
     margin: 1.5%;
     float: right;
 
 }nav a{
     text-decoration: none;
-    color: #ffff
+    color: #ffff;
     display: block;
 }
 nav h1 {
@@ -198,11 +198,11 @@ nav h1 a {
      list-style-type:none;
      text-decoration: none;
      margin: auto;
- }
- .unorder-list li {
-     text-align: center;
-     margin:auto;
      padding: 0;
+     text-align: centter;
+ }
+ #unorder-list li {
+     display: inline;
  }
  footer h3 {
      margin-top: 25px;
