@@ -210,21 +210,22 @@ nav h1 a {
      list-style-type: none;
  }
  #unorder-list li {
-     float: left;
+     float: right;
      list-style-type: none;
      line-height: 40px;
  }
  #unorder-list ul a {
-     background-position: right;
-     padding-right: 25px;
-     padding-left: 25px;
+     background-position: center;
+     padding-right: 30px;
+     padding-left: 40px;
      display: block;
      line-height: 50px;
      text-decoration: none;
      margin: 0 10px;
-     font-size: 25px;
+     font-size: 20px;
      color: #371c1c;
      font-family: oswald;
+     max-width: 70%;;
  }
  footer h3 {
      margin-top: 25px;
