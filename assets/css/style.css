@@ -27,7 +27,7 @@ nav li{
 
 }nav a{
     text-decoration: none;
-    color: #ffff;
+    color: #ffff
     display: block;
 }
 nav h1 {
@@ -67,7 +67,7 @@ nav h1 a {
  #mission h2 {
      margin-top: 20px;
      padding-bottom: 0px;
-     padding-right: 5px;
+     padding-right: 5px
      font-weight: bold;
      color:black;
  }
@@ -201,8 +201,6 @@ nav h1 a {
      padding: 0;
      text-align: centter;
  }
- #unorder-list li {
-     display: inline;
  }
  footer h3 {
      margin-top: 25px;
