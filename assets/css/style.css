@@ -170,14 +170,16 @@ nav h1 a {
 }
 #opening-hour {
     font-size: 25px;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 15px;
+    margin-bottom: 0px;
     padding-bottom: 20px;
     font-weight: bold;
  } 
  table {
      border-collapse: collapse;
      width: 60%;
+     margin-bottom: 20px;
+     padding-top: 25px;
  }
  table, th, td {
      border: 1px solid black;
@@ -201,6 +203,21 @@ nav h1 a {
      padding: 0;
      text-align: centter;
  }
+ #unorder-list ul {
+     width: 100px;
+     text-align: center;
+ }
+ #unorder-list li {
+     display: block;
+     list-style-type: none;
+     line-height: 40px;
+ }
+ #unorder-list a {
+     text-decoration: none;
+     margin: 0 10px;
+     
+     width: 100%;
+     height: 100%;
  }
  footer h3 {
      margin-top: 25px;
