@@ -216,12 +216,12 @@ nav h1 a {
  }
  #unorder-list ul a {
      background-position: center;
-     padding-right: 30px;
-     padding-left: 40px;
+     padding-right: 25px;
+     padding-left: 30px;
      display: block;
      line-height: 50px;
      text-decoration: none;
-     margin: 0 10px;
+     margin: 0 5px;
      font-size: 20px;
      color: #371c1c;
      font-family: oswald;
