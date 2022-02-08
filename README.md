@@ -106,3 +106,27 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+My name is Tony Lamidi. I am a student at code institute, studying Diploma in software engineering.
+
+This is my first read me and that means this is my first project.
+My project is about a sweet bread house. In a nut shell, a bakery house, where they produce sweet bread.
+This is about a bakery outlet I was running here in London. The bakery House was situated on 163, camberwell new road, London. Se15 5qj. The is about the bakery product, our mission, the equipments, and our environment.
+What make the bakery outlet unique was the sweetness in the bread. This in a way targeted largely some group of people, africans. The whole set up was very significant in general to the targeted community.
+The design is a simple one. With a picture of a loaf sliced
+
+I have the main heading that reads, " SWEET BREAD HOUSE". This is under h1 heading. Along side it are three anchors that tend to link to local page and server.
+
+The heading h1, is allign to the top left. And the anchor links are allign to the right.
+
+position command  and text allign, padding margin, floating right, font -family, text-weight,
+height, width are deployed to position the anchor links, and the main heading in the positions 
+where they are.
+
+The code to remove text decoration and the list style type use to eliminate such on the anchor and the h1 heading.
+
+The picture come right under the anchor and the main heading.
+The codes such as width, height, borders, margin, padding used to fix the picture in the position it is.
+
+
+
