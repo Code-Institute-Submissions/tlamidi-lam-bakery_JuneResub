@@ -135,7 +135,14 @@ Reason for loving the bread is next in the design. Or better put it people's lov
 
 Next two paragraphs that follows depict the bakery mission and what the bakery stands for. The 2 paragraphs narrate in full the details.
 
-Next is the ul to be used on providing the list of equipments
+Next is the ul element to be used in providing the list of equipments. Codes to manage the font, weight, text height and decoration are put together.
+
+After the equipments , come the list of products. The div and ul elements including li element are used.
+codes are written in the style list to manage the product.
+
+Opening and closing time follows of the bakery including the days of the week follows. Before this are, address , phone number, and email address. The table is wrapped inside a div element. This is to enable responsive behaviour.
+We make our self known in all the major social media including , twitter, you-tube, facebook, and instagram.
+All the items representing the social media are laid horizontally allign to the right.
 
 
 
