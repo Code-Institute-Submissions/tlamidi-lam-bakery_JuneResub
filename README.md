@@ -115,7 +115,8 @@ This is about a bakery outlet I was running here in London. The bakery House was
 What make the bakery outlet unique was the sweetness in the bread. This in a way targeted largely some group of people, africans. The whole set up was very significant in general to the targeted community.
 The design is a simple one. With a picture of a loaf sliced
 
-I have the main heading that reads, " SWEET BREAD HOUSE". This is under h1 heading. Along side it are three anchors that tend to link to local page and server.
+I have the main heading that reads, " SWEET BREAD HOUSE". This is under h1 heading. Along side it are three anchors that tend to link to local page and server, html files.
+Nav element is a great grand parent to anchor that is wrapped inside the list element. wrap around the 3 anchors it all the three anchors
 
 The heading h1, is allign to the top left. And the anchor links are allign to the right.
 
@@ -123,10 +124,18 @@ position command  and text allign, padding margin, floating right, font -family,
 height, width are deployed to position the anchor links, and the main heading in the positions 
 where they are.
 
-The code to remove text decoration and the list style type use to eliminate such on the anchor and the h1 heading.
+The code to remove text decoration and the list style type use to eliminate such on the anchor and the ul 
+element.
 
 The picture come right under the anchor and the main heading.
 The codes such as width, height, borders, margin, padding used to fix the picture in the position it is.
+The picture covered about 70 percent of the total width.
+
+Reason for loving the bread is next in the design. Or better put it people's love for the bakery. That was explained in a paragraph that followed the picture. 
+
+Next two paragraphs that follows depict the bakery mission and what the bakery stands for. The 2 paragraphs narrate in full the details.
+
+Next is the ul to be used on providing the list of equipments
 
 
 
