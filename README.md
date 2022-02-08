@@ -142,6 +142,7 @@ codes are written in the style list to manage the product.
 
 Opening and closing time follows of the bakery including the days of the week follows. Before this are, address , phone number, and email address. The table is wrapped inside a div element. This is to enable responsive behaviour.
 We make our self known in all the major social media including , twitter, you-tube, facebook, and instagram.
+The sub heading that indicate our presence on the social media is align to the left.
 All the items representing the social media are laid horizontally allign to the right.
 
 
