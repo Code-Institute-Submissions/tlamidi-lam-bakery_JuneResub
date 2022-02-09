@@ -138,12 +138,12 @@ Next two paragraphs that follows depict the bakery mission and what the bakery s
 Next is the ul element to be used in providing the list of equipments. Codes to manage the font, weight, text height and decoration are put together.
 
 After the equipments , come the list of products. The div and ul elements including li element are used.
-codes are written in the style list to manage the product.
+Codes are written in the style lists to manage the product.
 
-Opening and closing time follows of the bakery including the days of the week follows. Before this are, address , phone number, and email address. The table is wrapped inside a div element. This is to enable responsive behaviour.
+The Opening and Closing time of the bakery including the days of the week follows after. Shortly before the table of opening and closing time are, our address, phone number, and email address of the  bakery outlet. The table is wrapped inside a div element. This is to enable responsive design.
 We make our self known in all the major social media including , twitter, you-tube, facebook, and instagram.
 The sub heading that indicate our presence on the social media is align to the left.
-All the items representing the social media are laid horizontally allign to the right.
+All the items representing the social media are laid horizontally allign to the right. The social media platforms included in this project with a link connection to the rightful sight as indicated, employed anchor element as the link element to the social platforms. This is tested and opened in the new window connecting the site intended.
 
 
 
