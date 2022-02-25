@@ -95,9 +95,48 @@ img {
 #mission {
     font-family: oswald, sans-serif;
     font-size: 30px;
+    margin: 1%;
+    padding-top: 40px;
 }
 
 #products {
     font-family: oswald, sans-serif;
     font-size: 30px;
+    margin: 15%;
+    margin-left: 10px;
+    margin-top: 20px;
+    left: 39%;
+    top: 137%;
+    position: absolute;
+}
+
+#mission h2 {
+    font-weight: 50px;
+    font-size: 40px;
+    height: 70px;
+    margin-bottom: 5px;
+}
+
+#products h2 {
+    font-weight: 50px;
+    font-size: 40px;
+    height: 70px;
+    margin-top: 70px;
+    padding-top: 80px;
+}
+
+#mission p {
+    font-size: 25px;
+    height: 20px;
+    margin-right: 60%;
+    border-top: 20px;
+}
+
+#products p {
+    font-size: 25px;
+    height: 20px;
+    margin-right: 50%;
+    margin-bottom: 40px;
+    padding-bottom: 80px;
+    display: inline;
 }
