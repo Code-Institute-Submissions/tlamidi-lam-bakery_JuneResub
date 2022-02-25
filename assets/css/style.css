@@ -91,3 +91,13 @@ img {
     top: 100%;
     overflow: hidden;
 }
+
+#mission {
+    font-family: oswald, sans-serif;
+    font-size: 30px;
+}
+
+#products {
+    font-family: oswald, sans-serif;
+    font-size: 30px;
+}
