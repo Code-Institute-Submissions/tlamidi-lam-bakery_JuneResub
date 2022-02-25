@@ -206,7 +206,15 @@ img {
 
 .email scan {
     font-size: 30px;
-    width: 100px;
-    height: 50px;
-    font-weight: 40px;
+    width: 200px;
+    height: 150px;
+    font-weight: bold;
+}
+
+scan {
+    font-size: 30px;
+    width: 30px;
+    height: 40px;
+    font-weight: bold;
+
 }
