@@ -209,12 +209,20 @@ img {
     padding-top: 130px;
 }
 
+#address p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
 #email {
     font-family: oswald, sans-serif;
     font-size: 40px;
-    font-weight: 20px
+    font-weight: 20px;
     margin: 20%;
     border-top: 50px;
+    top: 260%;
+    left: 10%;
+    position: absolute;
 }
 
 #email scan {
@@ -223,8 +231,8 @@ img {
     height: 150px;
     font-weight: bold;
     border-top: 30px;
-    margin-right: 20px
-    parding-bottom: 30px;
+    margin-top: -10px;
+    display: inline;
 }
 
 scan {
