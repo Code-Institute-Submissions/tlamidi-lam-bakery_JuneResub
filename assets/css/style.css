@@ -300,17 +300,26 @@ footer p {
     margin: 3%;
 }
 
-.nav {
+#div-nav (
+    display; inline
+)
+
+ul#nav {
     list-style-type: none;
     text-align: center;
     margin: 0;
     padding: 0;
-    width: 200px;
-    height: 12px
+    display: inline;
 }
 
-.nav li {
-    font-size: 20px;
+ul#nav li {
     display: inline;
     
+}
+
+#nav ul li a {
+    font-family: oswald, sans-serif;
+    padding: 2px 16px;
+    border-radius: 4px;
+    font-weight: bold;
 }
