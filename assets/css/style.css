@@ -298,10 +298,12 @@ footer h3 {
 
 footer p {
     margin: 3%;
+
 }
 
 #div-nav (
     display: inline;
+    
 )
 
 #nav {
@@ -316,16 +318,13 @@ footer p {
     float: right;
     list-style-type: none;
     line-height: 30px;
-    margin-left: 30px;
-    text-decoration: none;
+    margin-left: 60px;
 
 }
 
 #nav ul li a {
-    background: right;
+    text-decoration: none;
     padding: 25px;
     display: block;
     font-size: 20px
-    border-radius: 4px;
-    max-width: 70%;
 }
