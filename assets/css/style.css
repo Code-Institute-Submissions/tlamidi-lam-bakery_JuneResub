@@ -243,30 +243,30 @@ scan {
 }
 
 h2.h {
+    font-family: oswald, sans-serif;
     font-sixe: 20px;
     width: 100px;
     height: 20px;
     font-weight: bold;
-    display: block;
     margin-left: 20px;
     top: 338%;
     position: absolute;
 }
 
 table {
+    color: red;
     font-family: oswald, sans-serif;
     border-collapse: collapse;
     border: 1px solid black;
     margin-top: 30px;
     margin-left: 20px;
     padding-top: 50px;
-    top: 340%;
-    left: 10%;
+    top: 338%;
+    left: 6%;
     position: absolute;
 }
 
-th,
-td {
+th,td {
     border: 1px solid black;
     height: 40px;
     font-size: 20px;
@@ -280,4 +280,33 @@ td {
 table.a {
     table-layout: fixed;
     width: 60%;
+}
+
+footer {
+    font-family: oswald, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    top: 400%;
+    position: absolute;
+}
+
+footer h3 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+footer p {
+    margin: 3%;
+}
+
+footer ul {
+    list-style-type: none;
+    width: 15px;
+    height: 12px;
+    margin-left: 20px;
+}
+
+footer li {
+    color: black;
 }
