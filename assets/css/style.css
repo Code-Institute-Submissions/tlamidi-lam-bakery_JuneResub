@@ -300,13 +300,15 @@ footer p {
     margin: 3%;
 }
 
-footer ul {
+.nav {
     list-style-type: none;
-    width: 15px;
-    height: 12px;
-    margin-left: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    height: 12px
 }
 
-footer li {
+.nav li {
     color: black;
 }
