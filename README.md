@@ -133,14 +133,22 @@ Another picture depicting people coming into the shop to purchase bread also fea
 
 The headings two in numbers, and the 2 paragraphs that follows touched on our mission and our products.
 
-The second pair of the h2 and p element are positioned right , side be side with the first pair of h2 and p elements.
+The second pair of the h2 and p element are positioned right , side by side with the first pair of h2 and p elements connecting to our mission, and our project respectively.
 
-The codes used to move h2 and p element in between our mission and our products, are codes positioning relatively, top, and left options and the display inline option. The code used are top, left, position, and display codes.
+The codes used to move h2 and p element in between our mission and our products, are codes positioning relatively, top, and left codes and the display inline option. The code used are top, left, position, and display codes.
 
 Equipments and ingredients lists are next in the design. Both list are wraped inside unordered lists,
-and the ,two sets of lists are placed side by side. As regular to unorder list with element, ul, li, and if made navigational the anchor element a, usual codes of text-decoration none, also, top, left, absolute positioning, inline display, including fonts settings codes are used 
+and the ,two sets of lists are placed side by side. As it is with unorder list element, ul, li, and if made navigational the anchor element a, usual codes of text-decoration as none, also, top, left, absolute positioning, inline display, including fonts settings codes are used.
 
-The table for our opening time with a heading captioned Ouand a heading
+Our contact details are followed. Our address, telephone number. Also it includes our email address. The posittioning codes are employed to move the email around. Scan element are used fro both phone and email-address. They are configured with also, font size, weight, height, and family. This is also placed within a div and larger umbrela of section element.
+
+Nav element was used in the logo and the menu at the top of the page. This make the navigation easy by wrapping within it an anchor 'a' element.
+
+The table for our opening time with a heading captioned Our closing time follows.
+The table element is wrapped inside a div element, including , tr, th, and td, elements.
+The div is inside a section element. The inclusion of div element for the table element setup is to make the table responsive.
+
+Next in the design is the footer.a heading
 
 
  
