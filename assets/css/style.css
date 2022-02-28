@@ -328,3 +328,8 @@ footer p {
     display: block;
     font-size: 20px
 }
+
+a.deco {
+    text-decoration: none;
+    color :black;
+}

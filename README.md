@@ -110,15 +110,39 @@ Happy coding!
 My name is Tony Lamidi. I am a student at code institute, studying Diploma in software engineering.
 
 This is my first read me and that means this is my first project.
-My project is about a sweet bread house. In a nut shell, a bakery house, where they produce sweet bread.
-This is about a bakery outlet I was running here in London. The bakery House was situated on 163, camberwell new road, London. Se15 5qj. The is about the bakery product, our mission, the equipments, and our environment.
-What make the bakery outlet unique was the sweetness in the bread. This in a way targeted largely some group of people, africans. The whole set up was very significant in general to the targeted community.
+My project is about a sweet bread house. It is about a bakery in London. In a nut shell, a bakery house, where they produce sweet bread.
+I happened to run the bakery at a time in London as the bakery manager and owner.
+The bread was a little bit different, it was a sweet bread with considerable amount of sugar and butter and margerine among other things. The bakery House was situated on 163, camberwell new road, London. Se15 5qj.
+ The is about the bakery pride, our products, our mission, the equipments, and our environment couple with our ingredients. Closing hours, and our presence in the social media.
+What make the bakery outlet unique was the sweetness in the bread. This in a way targeted largely some group of people, african, caribbean set of people, and other groups. The whole set up was very significant in general to the targeted communities.
 The design is a simple one. With a picture of a loaf sliced
 
-I have the main heading that reads, " SWEET BREAD HOUSE". This is under h1 heading. Along side it are three anchors that tend to link to local page and server, html files.
-Nav element is a great grand parent to anchor that is wrapped inside the list element. wrap around the 3 anchors it all the three anchors
+The project is a one page project
 
-The heading h1, is allign to the top left. And the anchor links are allign to the right.
+I have the main heading that reads, " SWEET BREAD HOUSE". This is under h1 heading. Along side it are three anchors that tend to link to local page and server, html files.
+Nav element is a great grand parent to anchor that is wrapped inside the list element. This also wrapped inside the unordered list element 'ul'.
+
+The heading h1, is alligned to the top left. And the anchor links are alligned to the right.
+This is made possible in the style sheet by invoking floating left and floating right on the h1 element handle and the ul element respectfully.
+
+The design is followed by the picture of a sliced bread , and part of the slice is cut into two. This serve as the main picture. In the style sheet, the height and width were assigned accordingly.
+
+h2 heading followed after. This is captioned, reason for loving us. That is to say, why we are unique.
+p paragraph explaining our stand in been one of the best bakery followed. Both the h2 and the p elements characteristics were defined in the style sheet. Their font sizes , boldness in terms of font weight and their respective positioning were contained in the style sheet. 
+Another picture depicting people coming into the shop to purchase bread also featured. `The second picture was positioned under the first picture to the right by using the top and left codes with values in percentages
+
+The headings two in numbers, and the 2 paragraphs that follows touched on our mission and our products.
+
+The second pair of the h2 and p element are positioned right , side be side with the first pair of h2 and p elements.
+
+The codes used to move h2 and p element in between our mission and our products, are codes positioning relatively, top, and left options and the display inline option. The code used are top, left, position, and display codes.
+
+Equipments and ingredients lists are next in the design. Both list are wraped inside unordered list,
+Ttwo sets of list are placed side by side.
+ v
+the pair also sits side by sides
+
+Next in the design are the unordered lists of codethe display with the value of 
 
 position command  and text allign, padding margin, floating right, font -family, text-weight,
 height, width are deployed to position the anchor links, and the main heading in the positions 
