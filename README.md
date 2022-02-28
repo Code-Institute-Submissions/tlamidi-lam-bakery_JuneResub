@@ -181,7 +181,13 @@ The Opening and Closing time of the bakery including the days of the week follow
 We make our self known in all the major social media including , twitter, you-tube, facebook, and instagram.
 The sub heading that indicate our presence on the social media is align to the left.
 All the items representing the social media are laid horizontally allign to the right. The social media platforms included in this project with a link connection to the rightful sight as indicated, employed anchor element as the link element to the social platforms. This is tested and opened in the new window connecting the site intended.
+
 Footer element is used as the main element to wrap all other elements for our bakery social media connections.
+
+Testing
+
+All the social media configured in the project wereww tested and connect perfectly. Including twitter, facebook, instagram,and you-tube.
+
 
 
 
