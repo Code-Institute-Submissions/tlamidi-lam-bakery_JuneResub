@@ -137,9 +137,13 @@ The second pair of the h2 and p element are positioned right , side be side with
 
 The codes used to move h2 and p element in between our mission and our products, are codes positioning relatively, top, and left options and the display inline option. The code used are top, left, position, and display codes.
 
-Equipments and ingredients lists are next in the design. Both list are wraped inside unordered list,
-Ttwo sets of list are placed side by side.
- v
+Equipments and ingredients lists are next in the design. Both list are wraped inside unordered lists,
+and the ,two sets of lists are placed side by side. As regular to unorder list with element, ul, li, and if made navigational the anchor element a, usual codes of text-decoration none, also, top, left, absolute positioning, inline display, including fonts settings codes are used 
+
+The table for our opening time with a heading captioned Ouand a heading
+
+
+ 
 the pair also sits side by sides
 
 Next in the design are the unordered lists of codethe display with the value of 
