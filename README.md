@@ -144,11 +144,12 @@ Our contact details are followed. Our address, telephone number. Also it include
 
 Nav element was used in the logo and the menu at the top of the page. This make the navigation easy by wrapping within it an anchor 'a' element.
 
-The table for our opening time with a heading captioned Our closing time follows.
+The table for our opening time with a heading captioned "Our closing time" follows.
 The table element is wrapped inside a div element, including , tr, th, and td, elements.
 The div is inside a section element. The inclusion of div element for the table element setup is to make the table responsive.
 
-Next in the design is the footer.a heading
+Next in the design is the footer. A heading, and a paragraph, a div and the ul, li, and 'a' elements are used.
+The footer included heading and a paragraph. It also includes the link to four major social media. A navigative element anchor 'a' are used to do the tasks. For easy boxing , a div element was used to contain the social media links.
 
 
  
