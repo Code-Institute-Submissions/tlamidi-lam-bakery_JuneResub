@@ -333,9 +333,9 @@ footer p {
     padding: 25px;
     display: block;
     font-size: 20px
+    color: black;
 }
 
-a.deco {
-    text-decoration: none;
-    color :black;
+#nav a {
+    color: black;
 }
