@@ -190,7 +190,9 @@ All the social media configured in the project were tested and connect perfectly
 
 W3C Validation programme was used to test and check for the errors in the project. It was clear of any error. Likewise the style sheet, it was equally tested and free of errors.
 
-Regarding the 
+Identation
+
+indent.rainbow file was installed. This is to put in place a check whereby to have a proper indentation for the codes, in both index file and and style sheet.
 
 
 
