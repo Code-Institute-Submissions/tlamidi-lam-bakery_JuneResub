@@ -186,7 +186,11 @@ Footer element is used as the main element to wrap all other elements for our ba
 
 Testing
 
-All the social media configured in the project wereww tested and connect perfectly. Including twitter, facebook, instagram,and you-tube.
+All the social media configured in the project were tested and connect perfectly. Including twitter, facebook, instagram,and you-tube.
+
+W3C Validation programme was used to test and check for the errors in the project. It was clear of any error. Likewise the style sheet, it was equally tested and free of errors.
+
+Regarding the 
 
 
 
