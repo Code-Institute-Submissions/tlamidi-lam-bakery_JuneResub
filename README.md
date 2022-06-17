@@ -75,6 +75,11 @@ Credit
 I give credit to my mentor for an immense support and meaningful contributions towards the project.
 Also credit to some consultations on line that I made.
 
+Content
+
+I used google font site to utilise some fonts. I imported oswald and lato fonts through a link from goggle font site and placed on line one in the css file in the project.
+
+
 
 
 
