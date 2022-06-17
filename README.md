@@ -48,10 +48,39 @@ Testing
 All the social media configured in the project were tested and connect perfectly. Including twitter, facebook, instagram,and you-tube.
 
 
-W3C Validation programme was used to test and check for the errors in the project. It was clear of any error. Likewise the style sheet, it was equally tested and free of errors.
+W3C Validation programme was used to test and check for the errors in the project. It was clear of any error in Html file. Likewise the style sheet, the css file, it was equally tested and free of errors.
 
 Identation
-indent.rainbow file was installed. This is to put in place a check whereby to have a proper indentation for the codes, in both index file and and style sheet.
+indent rainbow file was installed. This is to put in place a check whereby to have a proper indentation for the codes, in both index file and style sheet file.
+
+
+Unfix Bugs
+
+There were no unfix bugs recorded in the project.
+
+Deployment
+
+The site was deployed through github page
+ . Connect to the Github repository
+ . Navigate to settings, and click on it.
+ . Click on pages on the side menu.
+ . Click and select  main branch.
+ . Click on save.
+ . Click on the link in the field box above.
+ The message that the site has been published emerged.
+Finally, a submission form is completed to completely deploy the project.
+
+Credit
+
+I give credit to my mentor for an immense support and meaningful contributions towards the project.
+Also credit to some consultations on line that I made.
+
+
+
+
+
+
+
 
 
 
